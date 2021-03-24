@@ -108,7 +108,9 @@ programa
 					
 				}
 				
-			} senao se (opcao =='2'){
+			} 
+			
+			senao se (opcao =='2'){
 				tipo = "CORRENTE"
 				cabecalho(tipo)
 				Util.aguarde(2000)
@@ -178,7 +180,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 3776; 
+ * @POSICAO-CURSOR = 2632; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
